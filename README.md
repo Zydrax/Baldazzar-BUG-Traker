@@ -21,7 +21,7 @@ Stay tuned and follow us on the bugtracker. Then you will see the newest updates
 
 
 
-**Here you can open up a new issue** https://github.com/Baldazzar-BUG-Traker/issues/new
+**Here you can open up a new issue** https://github.com/Zydrax/Baldazzar-BUG-Traker/issues/new
 
 **Current behaviour**: Tell us what happens in detail (Where, When, What, Why, Who)
 

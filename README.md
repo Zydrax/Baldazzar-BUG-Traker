@@ -13,7 +13,7 @@ Your issue will be reviewed by testers and the developers will fix it in the fut
 Only once the issue got the label ![GitHub Logo](http://i.imgur.com/TQviwND.png) 
 
 you can find the fix on your Gameserver.
-You can increase the relevance of your issue by adding a thumb-up emote http://i.imgur.com/RFouVVi.png
+You can increase the relevance of your issue by adding a thumb-up emote 
 
 In order to open a new issue, click on "New Issue".
 
